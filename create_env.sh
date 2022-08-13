@@ -1,5 +1,5 @@
 brew install mecab-ipadic
-
+pip install virtualenv
 virtualenv .
 source bin/activate
 
