@@ -23,4 +23,4 @@ inputディレクトリに入力ファイルを入れて実行
 ※ファイル名は"text.txt"とする
 ```angular2html
 python main.py
-
+```
